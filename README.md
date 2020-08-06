@@ -1,1 +1,1 @@
-# hacked-psw-checker
+securely check passwords for pawnage using Haveibeenpawned API
